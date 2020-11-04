@@ -8,3 +8,5 @@ const server = net.createServer(socket => {
 })
 
 server.listen(8080, () => console.log('server started...'))
+
+// telnet 127.0.0.1 8080

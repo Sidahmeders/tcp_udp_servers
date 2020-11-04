@@ -1,0 +1,23 @@
+{
+  "name": "tcp_udp_servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "laod_blnc_layer-4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidahmeders/tcp_udp_servers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidahmeders/tcp_udp_servers/issues"
+  },
+  "homepage": "https://github.com/Sidahmeders/tcp_udp_servers#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
